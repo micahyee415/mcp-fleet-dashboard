@@ -28,7 +28,7 @@
     "jest": "^29.7.0",
     "tailwindcss": "^4",
     "ts-jest": "^29.4.9",
-    "typescript": "^5"
+    "typescript": "^6"
   },
   "overrides": {
     "@tootallnate/once": "^3.0.1",
