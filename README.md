@@ -29,8 +29,7 @@
 
 ## Screenshots
 
-> _Add screenshot here before publishing._
-
+![MCP Fleet Dashboard](docs/screenshot.png)
 ## Architecture
 
 ```
