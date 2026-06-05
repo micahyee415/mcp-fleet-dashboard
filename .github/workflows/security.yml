@@ -31,9 +31,7 @@ jobs:
   codeql:
     name: CodeQL analysis
     runs-on: ubuntu-latest
-    # Code Security is only enabled on the your-org org repo.
-    # The your-org personal repo cannot enable it without Advanced Security.
-    if: github.repository_owner == 'your-org'
+    if: github.repository_owner == 'micahyee415'
     permissions:
       security-events: write
       actions: read
