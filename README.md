@@ -1,3 +1,5 @@
+> **📦 Archived reference implementation** — built 2025–2026 while running IT solo at an HR-tech SaaS. Kept as a portfolio piece; dependencies are frozen as of archiving (August 2026). More projects: [github.com/micahyee415](https://github.com/micahyee415).
+
 # mcp-dashboard
 
 > A Next.js dashboard that monitors the health and status of a fleet of MCP (Model Context Protocol) servers deployed on Google Cloud Run.
